@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/login_bloc.iml" filepath="$PROJECT_DIR$/login_bloc.iml" />
       <module fileurl="file://$PROJECT_DIR$/login_bloc_android.iml" filepath="$PROJECT_DIR$/login_bloc_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/login_navigate_state_mgmt.iml" filepath="$PROJECT_DIR$/.idea/login_navigate_state_mgmt.iml" />
     </modules>
   </component>
 </project>
